@@ -1,0 +1,7 @@
+pandas
+numpy == 1.24
+seaborn
+matplotlib
+scikit-learn
+xlrd
+-e .
