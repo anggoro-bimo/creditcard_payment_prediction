@@ -3,5 +3,6 @@ numpy == 1.24
 seaborn
 matplotlib
 scikit-learn
+xgboost
 xlrd
 -e .
